@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    border: 2px solid rgb(102, 255, 0);
+}
+img{
+    width: 100px;
+}
+img{
+    width: 200px;
+    margin:100px;
+
+}
+.kvati{
+    
+}
+h1{
+    text-align:centre;
+    margin-left:400px;
+}
+div{
+    float:right;
+}
+body{
+    background-color:rgb(46, 167, 204);
+}
+h1{
+    font-size:50px;
+    color: rgb(94, 255, 0);
+}
+.kvati{
+    width:200px;
+}
+h2{
+    color: rgb(0, 255, 0), 0.966);
+}
